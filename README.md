@@ -1,4 +1,4 @@
-# parallonassignment
+# Parallon Assignment
 
 * CRUD operations for customers and accounts.
 * Support deposits and withdrawals on accounts.
