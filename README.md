@@ -4,7 +4,7 @@
 * Support deposits and withdrawals on accounts.
 * Internal transfer support (i.e. a customer may transfer funds from one account to another).
 
-Deployed in Heroku : https://parallon-assignment-bank.herokuapp.com/swagger-ui.html
+Deployed on Heroku : https://parallon-assignment-bank.herokuapp.com/swagger-ui.html
 
 REST API Client: Postman/swagger
 
