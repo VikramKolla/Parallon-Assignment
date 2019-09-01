@@ -16,7 +16,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.parallon.bank.model.Account;
 import com.parallon.bank.service.BankService;
 
-import io.swagger.annotations.Authorization;
 
 @RestController
 @RequestMapping("/api")

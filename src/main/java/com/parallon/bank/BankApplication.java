@@ -17,7 +17,7 @@ public class BankApplication {
 		SpringApplication.run(BankApplication.class, args);
 	}
 
-	// creating data set to play around, instead of using H2 or SQL DB
+	// creating data set to play around, instead of using H2 or SQL DB or JPA
 	public static List<Account> accounts = new ArrayList<>();
 	public static List<Customer> customers = new ArrayList<>();
 
